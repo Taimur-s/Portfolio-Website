@@ -44,8 +44,8 @@ const Timeline = () => {
 
   return (
     <Section id='about'>
-      <SectionTitle>About Me</SectionTitle>
-      <SectionText>How did i start learning biggest milestones
+      <SectionTitle>{/*About Me*/}</SectionTitle>
+      <SectionText>{/*How did i start learning biggest milestones*/}
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll} >
         <>

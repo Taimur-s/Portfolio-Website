@@ -8,11 +8,12 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome to<br />
-        My Personal Portfolio
+        Hello I'm Taimur<br />
+        Welcome to My Portfolio
       </SectionTitle>
       <SectionText>
-        This is what i do my services this how i can help you!
+      With extensive experience in web development, graphic design, business development, digital marketing, and personal branding, I deliver high-quality work that exceeds clients' expectations. My strong communication skills and collaborative approach ensure successful project delivery.
+      Let me bring value to your organization as your web developer, graphic designer.
       </SectionText>
       <Button onClick={() => window.location = "https://www.linkedin.com/in/taimursh/"}>Learn More</Button>
     </LeftSection>
