@@ -25,6 +25,9 @@ const Footer = () => {
           <SocialIcons href={'https://github.com/Taimur-s/'}>
             <AiFillGithub size={'3rem'} />
           </SocialIcons>
+          <SocialIcons href={'https://www.behance.net/taimurhashmi'}>
+            <AiFillBehanceCircle size={'3rem'} />
+          </SocialIcons>
           <SocialIcons href={'https://www.linkedin.com/in/taimursh/'}>
             <AiFillLinkedin size={'3rem'} />
           </SocialIcons>
