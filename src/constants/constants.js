@@ -25,7 +25,7 @@ export const projects = [
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 2,
-  },T
+  },
   {
     title: 'Unichat',
     description: "a full Realtime Chat Application",
