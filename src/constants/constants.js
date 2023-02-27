@@ -19,16 +19,16 @@ export const projects = [
   },
   {
     title: 'WebRTC App',
-    description: "This is a code repository for the corresponding , we're going to build and deploy a React Video Chat Application using WebRTC.",
+    description: " a React Video Chat Application using WebRTC.",
       image: '/images/3.jpg',
       tags: ['React', 'WebRTC'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 2,
-  },
+  },T
   {
     title: 'Unichat',
-    description: "This is a code repository for the . In this video, we will create a full Realtime Chat Application",
+    description: "a full Realtime Chat Application",
     image: '/images/4.jpg',
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://google.com',
